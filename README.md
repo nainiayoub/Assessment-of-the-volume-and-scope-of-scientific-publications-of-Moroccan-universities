@@ -4,7 +4,7 @@ In this project, we levereged Scimago Institutions Rankings, Google Scholar Cita
 The first part of this evaluation concerns Moroccan universities in the period 2009-2021, and their rankings in Morocco, Africa, Arab countries and in the world, by subject area. While the second part concerns the volume of scientific publications of the professors of the four best ranked Moroccan universities in each classification category.
 
 * [Data collection and methodology](#data-collection-and-methodology)
-  * [The SCImago Institutions Rankings (SIR)](#the-scimago-institutions-rankings-(sir))  
+  * [The SCImago Institutions Rankings (SIR)](#the-scimago-institutions-rankings-sir)  
   * [Indicators](#indicators)
   * [Google Scholar citations search](#google-scholar-citations-search)
 
