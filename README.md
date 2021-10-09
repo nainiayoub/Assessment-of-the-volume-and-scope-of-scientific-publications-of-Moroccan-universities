@@ -7,7 +7,7 @@ The first part of this evaluation concerns Moroccan universities in the period 2
 * [Data collection and methodology](#data-collection-and-methodology)
   * [The SCImago Institutions Rankings (SIR)](#the-scimago-institutions-rankings-sir)  
   * [Indicators](#indicators)
-  * [Google Scholar citations search](#google-scholar-citations-search)
+  * [Google Scholar citations search data](#google-scholar-citations-search-data)
 * [Project demo](#project-demo) 
 
 ## Data collection and methodology
@@ -29,7 +29,7 @@ Indicators are divided into three groups intended to reflect scientific, economi
 
 Source: [Ranking Methodology](https://www.scimagoir.com/methodology.php)
 
-### Google Scholar citations search 
+### Google Scholar citations search data
 [Google Scholar citations search](https://scholar.google.com/citations?view_op=search_authors) is our second data source for collecting professors' reasearch data (last name, first name, citations, affiliation, subject area) according to their number of citations and their universities of affiliation.
 
 Here is the research data for the four best ranked Moroccan universities that have been levereged:
