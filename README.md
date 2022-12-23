@@ -3,6 +3,10 @@ In this project, we levereged Scimago Institutions Rankings, Google Scholar Cita
 
 The first part of this evaluation concerns Moroccan universities in the period 2009-2021, and their rankings in Morocco, Africa, Arab countries and in the world, by subject area. While the second part concerns the volume of scientific publications of the professors of the four best ranked Moroccan universities in each classification category.
 
+## Project demo
+
+https://user-images.githubusercontent.com/50157142/136674213-552c15c0-bcae-4f94-84b7-c574bd8ec0e5.mp4
+
 ## Table of contents
 * [Data collection and methodology](#data-collection-and-methodology)
   * [The SCImago Institutions Rankings (SIR)](#the-scimago-institutions-rankings-sir)  
@@ -38,8 +42,6 @@ Here is the research data for the four best ranked Moroccan universities that ha
 * [Mohamed Premier University](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=universite+mohamed+premier&before_author=5Nvm_xcGAAAJ&astart=0) 
 * [Hassan 2 Univerity of Casablanca](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=universite+hassan+2&before_author=wvup_6EIAAAJ&astart=0) 
 
-## Project demo
 
-https://user-images.githubusercontent.com/50157142/136674213-552c15c0-bcae-4f94-84b7-c574bd8ec0e5.mp4
 
 
